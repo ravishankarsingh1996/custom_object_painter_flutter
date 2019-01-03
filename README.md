@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![Alt text for your video](https://3.bp.blogspot.com/-Wbhi63sgZ9E/XC4InMt_c-I/AAAAAAAATRo/WUYDC-Ui9WsI58GEPBj_WZ4wORgbOIU3QCLcBGAs/s320/Screen%2BShot%2B2019-01-03%2Bat%2B6.33.49%2BPM.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
